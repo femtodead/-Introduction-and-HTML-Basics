@@ -472,10 +472,32 @@ line-height: normal;
 
 .footer_logo_svg{
     background-color: #FFF;
+}
+
+.svg1{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10.93px;
+    padding-right: 10.59px;
+}
+
+.svg2{
     padding-top: 8px;
     padding-bottom: 7px;
     padding-left: 7.95px;
     padding-right: 8.61px;
+}
+.svg3{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 9.93px;
+    padding-right: 9.6px;
+}
+.svg4{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 7.95px;
+    padding-right: 7.61px;
 }
 
 .footer_logo_svg:hover path{
